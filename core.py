@@ -8,7 +8,7 @@ import display_map
 
 INPUT_FILE = 'input_file.xlsx'
 OUTPUT_FILE = 'output_file.csv'
-API_KEY = 'AIzaSyDTQ-u4uYQrwsBu9owBtG4JP28y1ttcksw'
+API_KEY = 'Insert Google Geocoding API key here'
 
 #   !!!---Difficulty algorithm------!!!
 #   !!!---Difficulty algorithm------!!!
